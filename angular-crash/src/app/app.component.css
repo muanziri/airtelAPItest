@@ -1,0 +1,11 @@
+.container{
+    height: 10vw;
+    width: 100%;
+    background-color: beige;
+    font-size: x-large;
+    color: rgb(53, 52, 52);
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 200;
+    
+}
